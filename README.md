@@ -14,17 +14,17 @@ The dataset used in this project is sourced from the [National Judicial Data Gri
 - **Charts**: Interactive visualizations such as pie charts, stacked bar charts, and clustered column charts.
 
 ## Project Components
-- **[Report](https://github.com/SimranS22/Explore-PowerBI/blob/main/Judicial%20Case%20Insights%20(As%20of%20July%202024)/Judicial_Case_Insights.pdf)**: Detailed presentation explaining the dashboards and insights derived from the data.
+- **[Report](https://github.com/SimranS22/Judicial-Case-Insights/blob/main/Judicial_Case_Insights.pdf)**: Detailed presentation explaining the dashboards and insights derived from the data.
 - **Dashboard Images**: Visual representation of the dashboard's key sections.
 - **Video Demo**: A walkthrough of the dashboard functionalities and features.
-    * [High Court Case Insights](https://github.com/SimranS22/Explore-PowerBI/blob/main/Judicial%20Case%20Insights%20(As%20of%20July%202024)/HighCourtCaseInsightsDemo.md)
-    * [District Court Case Insights](https://github.com/SimranS22/Explore-PowerBI/blob/main/Judicial%20Case%20Insights%20(As%20of%20July%202024)/DistrictCourtCaseInsightsDemo.md)
-- **[PBIX File](https://github.com/SimranS22/Explore-PowerBI/blob/main/Judicial%20Case%20Insights%20(As%20of%20July%202024)/NJDG.pbix)**: Power BI file containing the dashboards and visualizations.
+    * [High Court Case Insights](https://github.com/SimranS22/Judicial-Case-Insights/blob/main/HighCourtCaseInsightsDemo.md)
+    * [District Court Case Insights](https://github.com/SimranS22/Judicial-Case-Insights/blob/main/DistrictCourtCaseInsightsDemo.md)
+- **[PBIX File](https://github.com/SimranS22/Judicial-Case-Insights/blob/main/NJDG.pbix)**: Power BI file containing the dashboards and visualizations.
 
 ## Installation
-1. Clone the repository to your local machine, or download the **[PBIX File](https://github.com/SimranS22/Explore-PowerBI/blob/main/Judicial%20Case%20Insights%20(As%20of%20July%202024)/NJDG.pbix)** and retrieve the dataset from the source provided above.
+1. Clone the repository to your local machine, or download the **[PBIX File](https://github.com/SimranS22/Judicial-Case-Insights/blob/main/NJDG.pbix)** and retrieve the dataset from the source provided above.
 2. Import the dataset into Power BI.
-3. Open the **[Report](https://github.com/SimranS22/Explore-PowerBI/blob/main/Judicial%20Case%20Insights%20(As%20of%20July%202024)/Judicial_Case_Insights.pdf)** for a detailed overview of the dashboards.
+3. Open the **[Report](https://github.com/SimranS22/Judicial-Case-Insights/blob/main/Judicial_Case_Insights.pdf)** for a detailed overview of the dashboards.
 4. Review the **Dashboard Images** for visual references.
 5. Watch the **Video Demo** for an in-depth walkthrough of dashboard features and navigation.
 
